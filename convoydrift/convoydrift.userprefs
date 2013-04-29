@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/resources/scripts/LeadVehicleMovement.cs">
+    <Files>
+      <File FileName="Assets/resources/scripts/LeadVehicleMovement.cs" Line="21" Column="46" />
+      <File FileName="Assets/resources/scripts/testbutton.cs" Line="1" Column="1" />
+      <File FileName="Assets/resources/scripts/convoylist1.cs" Line="32" Column="58" />
+      <File FileName="Assets/resources/scripts/cameraFollow.cs" Line="14" Column="9" />
+      <File FileName="Assets/resources/scripts/pickupScript.cs" Line="25" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
